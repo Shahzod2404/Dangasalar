@@ -1,0 +1,43 @@
+.yashil {
+    padding: 10px;
+    color: green;
+    border: 1px solid gray;
+    font-size: 20px;
+}
+
+.sariq {
+    padding: 10px;
+    font-size: 30px;
+    color: rgb(234, 63, 11);
+    border: 1px solid rgb(13, 13, 1);
+}
+
+
+.sunnat {
+    color: yellow;
+    background-color: #333;
+    font-style: 25px;
+    padding: 10px;
+    border: 2px solid black;
+}
+
+.farrux {
+    color: rgb(42, 42, 22);
+    font-style: 25px;
+    padding: 10px;
+    border: 2px solid black;
+}
+
+.firdavs {
+    color: rgba(83, 100, 93, 0.413);
+    font-style: 25px;
+    padding: 10px;
+    border: 2px solid black;
+}
+
+.bexruz {
+    color: rgb(16, 16, 2);
+    font-style: 30px;
+    padding: 10px;
+    border: 2px solid black;
+}
